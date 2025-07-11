@@ -105,6 +105,8 @@ final class ValidatedRegistration
 }
 ```
 
+**Note: The `$being` property follows a naming convention and is not hardcoded or specially treated in the framework's code. It semantically represents the object's destiny, aligning with Ontological Programming's "from doing to being" philosophy. Alternatives like `$destiny` or `$essence` work fine via type reflection—use what fits your project for flexibility. This prevents misinterpretations (e.g., as a fixed requirement) and emphasizes convention over configuration.**
+
 ### 3.2 How Type-Driven Metamorphosis Works
 
 When an object declares multiple potential metamorphoses through the `#[Be]` attribute, the framework examines the type of the being property to determine which path to take:
