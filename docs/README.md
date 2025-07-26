@@ -37,32 +37,32 @@ This whitepaper details **Be Framework**, the concrete PHP implementation of Ont
 
    This foundational paper introduces Being-Oriented Programming as a paradigm that embodies the ancient Daoist concept of Wu Wei—achieving through non-forcing, accomplishing through natural alignment rather than imposed control.
 
-    * **Read this to understand:**
-        * How "Be, Don't Do" represents the computational expression of Wu Wei
-        * The integration of Heraclitean flux, Buddhist impermanence, and Daoist flow
-        * Self-declared metamorphosis as natural transformation
-        * The profound philosophical underpinnings of temporal programming
+*   **Read this to understand:**
+    * How "Be, Don't Do" represents the computational expression of Wu Wei
+    * The integration of Heraclitean flux, Buddhist impermanence, and Daoist flow
+    * Self-declared metamorphosis as natural transformation
+    * The profound philosophical underpinnings of temporal programming
 
 ### 4. **[Wu Wei and Software Design: The Art of Natural Transformation](./philosophy/wu-wei-software-design.md)**
    > **"Water defeats the hardest rock through patient transformation—so too can software systems achieve power through natural flow rather than forceful control"**
 
    This practical exploration demonstrates how the ancient Daoist principle of Wu Wei (無為) can revolutionize modern software architecture. Moving from control-oriented to flow-oriented design.
 
-    * **Read this to discover:**
-        * How Wu Wei principles solve the "controller problem" in software design
-        * The transformation from spatial control to temporal flow
-        * Practical patterns for implementing "accomplishing through non-forcing"
-        * The deep connection between ancient wisdom and modern programming challenges
+*   **Read this to understand:**
+    * How Wu Wei principles solve the "controller problem" in software design
+    * The transformation from spatial control to temporal flow
+    * Practical patterns for implementing "accomplishing through non-forcing"
+    * The deep connection between ancient wisdom and modern programming challenges
 
 ### 5. **[From Space to Time: The Metamorphosis Paradigm](./philosophy/from-space-to-time.md)**
    > **"When code learned to remember, programs discovered mortality, and programming became poetry"**
 
    The crystallization of our deepest understanding. This essay transforms programming from spatial navigation to temporal metamorphosis.
 
-    * **Read this to experience:**
-        * The shift from eternal present to lived time
-        * Programming as poetry and philosophy
-        * The quantum nature of existence in code
+*   **Read this to understand:**
+    * The shift from eternal present to lived time
+    * Programming as poetry and philosophy
+    * The quantum nature of existence in code
 
 ### 6. **[Ontological Metamorphose vs. DCI: A Comparative Philosophical Reflection](./philosophy/metamorphose-vs-dci.md)**
 
