@@ -42,7 +42,7 @@ final class Greeting
         #[Inject] WorldGreeting $greeting     // Transcendent
     ) {
         $this->message = "{$greeting->text} {$name}";  // New Immanent
-    }
+    }poc
 }
 ```
 
